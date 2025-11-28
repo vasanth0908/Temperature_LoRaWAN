@@ -265,13 +265,9 @@ void loop() {
 
 # OUTPUT:
 
+<img width="1365" height="668" alt="Screenshot 2025-11-28 095114" src="https://github.com/user-attachments/assets/f0e3f708-3402-4baf-8a59-48f13ccd7d24" />
 
-<img width="485" height="403" alt="Screenshot 2025-11-13 090716" src="https://github.com/user-attachments/assets/ca6082ab-98e0-49ef-916d-d5c4f450f6e4" />
-
-<img width="1914" height="906" alt="Screenshot 2025-11-13 090627" src="https://github.com/user-attachments/assets/1b40a13c-a298-4cdf-aeb5-171d6b8c150f" />
-
-<img width="1916" height="837" alt="Screenshot 2025-11-13 090649" src="https://github.com/user-attachments/assets/065da3f4-27b3-4a71-9787-a1a9083192fc" />
-
+<img width="1365" height="722" alt="Screenshot 2025-11-28 095102" src="https://github.com/user-attachments/assets/5c360284-c33a-4755-af4c-55de9c89045f" />
 
 
 
